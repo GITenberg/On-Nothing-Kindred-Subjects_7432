@@ -1,0 +1,36 @@
+_repo: On-Nothing-Kindred-Subjects_7432
+alternative_title: On Nothing and Kindred Subjects
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: 'On the pleasure of taking up one''s pen -- On getting respected
+  in inns and hotels -- On ignorance -- On advertisement -- On a house -- On the illness
+  of my muse -- On a dog and a man also -- On tea -- On them -- On railways and things
+  -- On conversations in trains -- On the return of the dead -- On the approach of
+  an awful doom -- On a rich man who suffered -- On a child who died -- On a lost
+  manuscript -- On a man who was protected by another man -- On national debts --
+  On lords -- On jingoes: in the shape of a warning -- On a winged horse and the exile
+  who rode him -- On a man and his burden -- On a fisherman and the quest of peace
+  -- On a hermit whom I knew -- On an unknown country -- On a faery castle -- On a
+  southern harbour -- On a young man and an older man -- On the departure of a guest
+  -- On death -- On coming to an end.'
+title: On Nothing & Kindred Subjects
+url: http://www.gutenberg.org/ebooks/7432
