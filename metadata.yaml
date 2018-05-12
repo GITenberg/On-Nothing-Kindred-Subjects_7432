@@ -1,5 +1,9 @@
 _repo: On-Nothing-Kindred-Subjects_7432
+_version: 0.1.0
 alternative_title: On Nothing and Kindred Subjects
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -10,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7432#On-Nothing-Kindred-Subjects
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
